@@ -9,7 +9,7 @@ def criaPersonagem():
                 'classe': ' ',
                 'força': 5,
                 'karma': 'nulo de inicio', #suas decisoes caso sejam contradizacentes com sua inclinaçao vai ter um karma que vai ser algum Debuff'
-                'tempoVida': 100,#Vai ser dado por escolhas(quanto mais coerentes forem elas mais ele vai ter)  DESCULPA MEU BEM FOI SEM QUERER aaaaaaa -> rlx amor
+                'tempoVida': 100,#Vai ser dado por escolhas(quanto mais coerentes forem elas mais ele vai ter)  
                 'especie': 'humano',
                 'detreza': 5 #vai escalar com a quantidade de escolhas que a pessoa vai ter no inicio eu penso em 3 sabe mas dps a medida que a pessoa vaise arriscando ela vai tendo opçoes mais perigosas -> hmm entendi, bom temos que anotar tudo isso e decidir certinho pra podermos montar
                 }
